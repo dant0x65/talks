@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Exploiting IoT Devices at Scale",
+    "description": "A deep dive into attacking smart home devices using common vulnerabilities.",
+    "conference": "DEF CON",
+    "year": 2023,
+    "category": "iot",
+    "videoUrl": "https://www.youtube.com/embed/abc12345678",
+    "whitepaperUrl": "https://example.com/whitepapers/exploiting-iot.pdf"
+  },
+  {
+    "title": "Reverse Engineering Android Apps with Frida",
+    "description": "This talk covers dynamic analysis using Frida on Android applications.",
+    "conference": "Black Hat",
+    "year": 2022,
+    "category": "android",
+    "videoUrl": "https://www.youtube.com/embed/def98765432",
+    "whitepaperUrl": "https://example.com/whitepapers/re-android-frida.pdf"
+  },
+  {
+    "title": "Advanced Web Exploitation Techniques",
+    "description": "Latest trends and tricks in web application hacking.",
+    "conference": "BSides SF",
+    "year": 2023,
+    "category": "web",
+    "videoUrl": "https://www.youtube.com/embed/ghi45678901",
+    "whitepaperUrl": ""
+  }
+]
