@@ -1,20 +1,12 @@
 [
   {
-    "title": "Breaking Secure Web Gateways  for Fun and Profit",
-    "speaker": "Vivek Ramachandran, Jeswin Mathai",
-    "url": "https://www.youtube.com/watch?v=mBZQnJ1MWYI",
-    "category": "Web"
-  },
-  {
-    "title": "Listen to the Whispers: Web Timing Attacks that Actually Work",
-    "speaker": "James Kettle",
-    "url": "https://www.youtube.com/watch?v=zOPjz-sPyQM",
-    "category": "Web"
-  },
-  {
-    "title": "Abusing Windows Hello Without a Severed Hand",
-    "speaker": "Ceri Coburn, Dirk jan Mollema",
-    "url": "https://www.youtube.com/watch?v=mFJ-NUnFBac",
-    "category": "Windows"
+    title: "Listen to the Whispers: Web Timing Attacks that Actually Work",
+    speaker: "James Kettle",
+    conference: "BSides SF",
+    year: 2024,
+    category: "web",
+    videoUrl: "https://www.youtube.com/embed/zOPjz-sPyQM",
+    whitepaperUrl: "https://example.com/ios-malware-whitepaper.pdf"
   }
 ]
+
